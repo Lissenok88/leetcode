@@ -7,7 +7,7 @@ package com.lissenok88;
  * and you may not use the same element twice.
  * You can return the answer in any order.
  */
-public class TwoSum {
+public class TwoSum_1 {
     public static int[] twoSum(int[] nums, int target) {
         int n = nums.length;
         for (int i = 0; i < n - 1; i++) {
